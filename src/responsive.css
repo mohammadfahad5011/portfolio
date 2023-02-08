@@ -1,0 +1,80 @@
+/*! 930 px  */
+
+@media only screen and (max-width: 930px) {
+  /* Reference part */
+  .swiper {
+    width: 100%;
+  }
+
+  /* contact section  */
+  .contact-section .contact-left lottie-player {
+    width: 350px !important;
+    height: auto;
+  }
+
+  .dis-flex {
+    display: flex;
+    align-items: center;
+  }
+}
+
+/*! 723 px */
+
+@media only screen and (max-width: 723px) {
+  /* hero section  */
+  .left-gmail {
+    left: -90px;
+  }
+
+  .right-Social-icon {
+    right: 15px;
+  }
+
+  .hero-element h1 {
+    font-size: 4rem;
+  }
+  .dis-flex {
+    justify-content: center;
+  }
+}
+
+/*!  575 px  */
+
+@media only screen and (max-width: 575px) {
+  .hero-element h1 {
+    font-size: 2.5rem;
+  }
+  .hero-element span {
+    font-size: 22px;
+  }
+}
+
+/*! 375 px  */
+
+@media only screen and (max-width: 575px) {
+  section {
+    padding: 50px 10px;
+  }
+
+  /* hero section  */
+  .hero-section {
+    height: 70vh;
+  }
+  .left-gmail {
+    display: none;
+  }
+  .right-Social-icon {
+    display: none;
+  }
+
+  /* about section  */
+  .about-section{
+    text-align: center;
+  }
+  .about-ul{
+    list-style: none;
+  }
+  .about-image img{
+    max-width: 250px;
+  }
+}
