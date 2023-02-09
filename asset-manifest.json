@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-portfolio/static/css/main.cf04ed8e.css",
-    "main.js": "/React-portfolio/static/js/main.f2e6631b.js",
-    "static/media/z.jpg": "/React-portfolio/static/media/z.ea80278214eefbfc2567.jpg",
-    "static/media/fa.jpg": "/React-portfolio/static/media/fa.1f2beb21a12149748a09.jpg",
-    "static/media/20210703_232108.jpg": "/React-portfolio/static/media/20210703_232108.f95744ebce8986b4e92a.jpg",
-    "static/media/p-1.png": "/React-portfolio/static/media/p-1.c221a09fd82f45fde226.png",
-    "static/media/webdesign.jpg": "/React-portfolio/static/media/webdesign.532290f086e5ab93f88f.jpg",
-    "static/media/review-1.jpg": "/React-portfolio/static/media/review-1.8504eebf0b12a6965402.jpg",
-    "static/media/p-4.png": "/React-portfolio/static/media/p-4.8ef8201ce5f4f3ac0e0d.png",
-    "static/media/p-2.png": "/React-portfolio/static/media/p-2.6777a36be95e0b86dc8a.png",
-    "static/media/p-3.png": "/React-portfolio/static/media/p-3.9ed9f099c9b42e758f98.png",
-    "static/media/pic.png": "/React-portfolio/static/media/pic.2c8c7d05d2ac7ec92286.png",
-    "static/media/himel.jpeg": "/React-portfolio/static/media/himel.0583c8b8148d0f4e9a8c.jpeg",
-    "index.html": "/React-portfolio/index.html",
-    "main.cf04ed8e.css.map": "/React-portfolio/static/css/main.cf04ed8e.css.map",
-    "main.f2e6631b.js.map": "/React-portfolio/static/js/main.f2e6631b.js.map"
+    "main.css": "/portfolio/static/css/main.69b8122e.css",
+    "main.js": "/portfolio/static/js/main.dba51f8b.js",
+    "static/media/z.jpg": "/portfolio/static/media/z.ea80278214eefbfc2567.jpg",
+    "static/media/fa.jpg": "/portfolio/static/media/fa.1f2beb21a12149748a09.jpg",
+    "static/media/20210703_232108.jpg": "/portfolio/static/media/20210703_232108.f95744ebce8986b4e92a.jpg",
+    "static/media/p-1.png": "/portfolio/static/media/p-1.c221a09fd82f45fde226.png",
+    "static/media/webdesign.jpg": "/portfolio/static/media/webdesign.532290f086e5ab93f88f.jpg",
+    "static/media/review-1.jpg": "/portfolio/static/media/review-1.8504eebf0b12a6965402.jpg",
+    "static/media/p-4.png": "/portfolio/static/media/p-4.8ef8201ce5f4f3ac0e0d.png",
+    "static/media/p-2.png": "/portfolio/static/media/p-2.6777a36be95e0b86dc8a.png",
+    "static/media/p-3.png": "/portfolio/static/media/p-3.9ed9f099c9b42e758f98.png",
+    "static/media/pic.png": "/portfolio/static/media/pic.2c8c7d05d2ac7ec92286.png",
+    "static/media/himel.jpeg": "/portfolio/static/media/himel.0583c8b8148d0f4e9a8c.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.69b8122e.css.map": "/portfolio/static/css/main.69b8122e.css.map",
+    "main.dba51f8b.js.map": "/portfolio/static/js/main.dba51f8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf04ed8e.css",
-    "static/js/main.f2e6631b.js"
+    "static/css/main.69b8122e.css",
+    "static/js/main.dba51f8b.js"
   ]
 }
